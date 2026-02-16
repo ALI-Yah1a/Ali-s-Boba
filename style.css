@@ -29,3 +29,18 @@ h2 {
     margin: 20px 0;
     text-align: center;
 }
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: grey;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: darkgrey;
+    border: 1px solid white;
+}
